@@ -28,6 +28,8 @@ Welcome to the BotTalkAI Chat App, an exceptional creation developed using Kotli
 
 3. **Explore Categories:** Feel free to explore different categories using keywords. Dive deep into discussions that align with your interests.
 
+![BotTalkAI ChatGPT AI App](img.webp)
+
 ### Contribution:
 
 We welcome contributions to enhance and refine the BotTalkAI Chat App. If you're interested in adding features, improving the UI, or enhancing the AI's capabilities, please feel free to contribute. Refer to our [contribution guidelines](https://www.technovimal.in/contact) for more details.
