@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150611651878",
+    "project_id": "bottalkai-8aaa0",
+    "storage_bucket": "bottalkai-8aaa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150611651878:android:9c91a4aa2d95f93ea7a5e7",
+        "android_client_info": {
+          "package_name": "com.vimalcvs.bottalkai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150611651878-kfa2pec0t9t7r63k6ea83hbkr3qa5t69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDriD7KgnaH4i65Wl7cEcX7KytNbOwJnGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150611651878-kfa2pec0t9t7r63k6ea83hbkr3qa5t69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
